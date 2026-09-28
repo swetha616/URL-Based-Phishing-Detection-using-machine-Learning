@@ -2,11 +2,6 @@
 
 A lightweight, real-time machine learning system that classifies URLs as **phishing** or **legitimate** using 23 structural and lexical URL features. Includes an interactive Streamlit dashboard for live scanning, feature inspection, and analytics.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 ---
 
 ##  Overview

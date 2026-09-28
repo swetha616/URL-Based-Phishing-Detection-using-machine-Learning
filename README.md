@@ -71,3 +71,14 @@ Train/Test split: **80% / 20%** (stratified).
 ```bash
 git clone https://github.com/swetha616/phish-detector.git
 cd phish-detector
+
+```
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Run the dashboard
+```bash
+streamlit run app.py
+```
+Open http://localhost:8501 in your browser.

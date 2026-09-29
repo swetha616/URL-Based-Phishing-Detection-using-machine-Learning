@@ -5,3 +5,4 @@ numpy
 tldextract
 joblib
 plotly
+python-Levenshtein
